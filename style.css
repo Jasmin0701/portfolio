@@ -239,7 +239,10 @@ body.cursor-card .cursor-ring {
   border-radius: 2px;
   transition: transform 0.3s, opacity 0.3s;
 }
-
+.hello {
+  color: rgb(236, 134, 236);
+  
+}
 .mobile-menu {
   position: fixed;
   inset: 0;
